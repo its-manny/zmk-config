@@ -1,0 +1,6 @@
+if SHIELD_MANNY73
+
+config ZMK_KEYBOARD_NAME
+    default "Manny73"
+
+endif
