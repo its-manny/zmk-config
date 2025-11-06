@@ -1,2 +1,2 @@
 config SHIELD_MANNY73
-    def_bool $(shields_list_contains, manny73)
+    def_bool $(shields_list_contains,manny73)
